@@ -1,0 +1,11 @@
+.currency {
+    background-color: rgb(113 201 115)
+}
+
+.currency:hover {
+    background-color: rgb(168, 238, 171)
+}
+
+.activeCurrency {
+    background-color: white;
+}
